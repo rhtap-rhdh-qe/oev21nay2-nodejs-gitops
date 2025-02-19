@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: oev21nay2-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/oev21nay2-nodejs
